@@ -11,7 +11,7 @@ package com.mycompany.gitmidtermtest;
 public class GitMidtermTest {
 
     public static void main(String[] args) {
-        System.out.println("Midterm Git Test Rev 2!");
+        System.out.println("Midterm, this is Git Test Rev 3!");
         
     }
 }
